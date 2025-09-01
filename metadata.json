@@ -1,0 +1,5 @@
+{
+  "name": "finale definitivo",
+  "description": "An application for users to create, save, and download their daily activity reports. Features a special master user role for complete oversight and management of all user reports.",
+  "requestFramePermissions": []
+}
